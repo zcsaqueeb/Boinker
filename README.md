@@ -18,8 +18,8 @@ Register Here: https://t.me/boinker_bot/boinkapp?startapp=boink6173601862
 - Clone Repository
 
 ```bash
-git clone https://github.com/Not-D4rkCipherX/Boinkers.git
-cd Boinkers
+git chttps://github.com/zcsaqueeb/Boinker.git
+cd Boinker
 ```
 
 - Install Dependency
