@@ -1,6 +1,6 @@
 ﻿## Boinkers BOT
  
-Register Here: https://t.me/boinker_bot/boinkapp?startapp=boink5475888734
+Register Here: https://t.me/boinker_bot/boinkapp?startapp=boink6173601862
  
 ## 🚨 Attention Before Running The Script
 - IF You are Beginner and don't understand how to use it then must watch this tutorial first:
